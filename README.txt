@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/palmettophoto/order-summary-card.git)
+- Live Site URL: (https://palmettophoto.github.io/order-summary-card/)
 
 ## My process
 The initial build out was fairly straightforward for my skill level, & likewise the addition of responsive criteria tripped me up quite a bit. Definitely realize the need to study more on incorporating responsive sizing.
